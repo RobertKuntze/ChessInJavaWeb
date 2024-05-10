@@ -1,0 +1,34 @@
+vaadin-button.black {
+  background-color: #000;
+    color: #fff;
+}
+
+vaadin-button.black:hover {
+  background-color: #333;
+}
+
+vaadin-button.black[disabled] {
+    color: #888;
+}
+
+vaadin-button.black.selectable {
+    background-color: #363;
+}
+
+vaadin-button.white {
+    background-color: #fff;
+    color: #000;
+}
+
+vaadin-button.white:hover {
+    background-color: #f3f3f3;
+}
+
+vaadin-button.white[disabled] {
+    color: #888;
+}
+
+vaadin-button.white.selectable {
+    background-color: #ada;
+}
+
